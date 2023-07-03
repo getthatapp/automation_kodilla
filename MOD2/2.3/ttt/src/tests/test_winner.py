@@ -1,4 +1,5 @@
 import pytest
+from tic_tac_toe.utilities import tic_tac_toe_winner
 
 
 def test_tic_tac_toe_winner():
